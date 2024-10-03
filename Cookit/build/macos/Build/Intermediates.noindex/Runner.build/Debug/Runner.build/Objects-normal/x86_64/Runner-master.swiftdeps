@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1ea48be325cf08ee46176ab6b3390b2a7b0942c25c694ece7d4dab4a3ca7d957"
+build_start_time: [1677403543, 713194847]
+build_end_time: [1677403551, 478754043]
+inputs:
+  "/Users/enzogouband/Desktop/Cookit/Cookit/macos/Flutter/GeneratedPluginRegistrant.swift": [1677403524, 136721611]
+  "/Users/enzogouband/Desktop/Cookit/Cookit/macos/Runner/AppDelegate.swift": [1669220596, 0]
+  "/Users/enzogouband/Desktop/Cookit/Cookit/macos/Runner/MainFlutterWindow.swift": [1669220596, 0]
